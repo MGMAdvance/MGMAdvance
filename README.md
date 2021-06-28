@@ -1,7 +1,2 @@
 ### Hello! 👋
-<a href="https://github.com/mgmadvance">
-  <img align="center" src="https://github-readme-stats-gamma-beige.vercel.app/api?username=mgmadvance&count_private=true&show_icons=true&hide_title=true&theme=omni" />
-</a>
-<a href="https://github.com/mgmadvance">
-  <img align="center" src="https://github-readme-stats-gamma-beige.vercel.app/api/top-langs/?username=mgmadvance&layout=compact&theme=omni" />
-</a>
+![Metrics](https://metrics.lecoq.io/mgmadvance?template=classic&rss=1&gists=1&followup=1&lines=1&music=1&followup.sections=repositories&music.provider=spotify&music.playlist=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F2Fpo6H1TA6CBug7FFLTZbd%3Fsi%3D7b32b808a21148de&music.limit=4&music.played.at=false&music.user=12143664967&rss.source=https%3A%2F%2Fmgmadvance.github.io%2Ffeed.xml&rss.limit=4&config.timezone=America%2FSao_Paulo)

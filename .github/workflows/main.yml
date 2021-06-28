@@ -19,16 +19,13 @@ jobs:
           user: mgmadvance
           template: classic
           base: header, activity, community, repositories, metadata
+          config_padding: 0, 22%
           config_timezone: America/Sao_Paulo
           plugin_followup: yes
           plugin_followup_sections: repositories
           plugin_gists: yes
           plugin_lines: yes
-          plugin_music: yes
-          plugin_music_limit: 4
-          plugin_music_playlist: https://open.spotify.com/embed/playlist/2Fpo6H1TA6CBug7FFLTZbd?theme=0
-          plugin_music_provider: spotify
-          plugin_music_user: 12143664967
           plugin_rss: yes
           plugin_rss_limit: 4
           plugin_rss_source: https://mgmadvance.github.io/feed.xml
+          repositories_forks: yes
